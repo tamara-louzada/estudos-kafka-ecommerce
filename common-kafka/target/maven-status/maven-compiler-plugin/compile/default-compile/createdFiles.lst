@@ -1,0 +1,6 @@
+com\alura\curso\kafka\common\kafka\App.class
+com\alura\curso\kafka\common\kafka\GsonSerializer.class
+com\alura\curso\kafka\common\kafka\GsonDeserializer.class
+com\alura\curso\kafka\common\kafka\KafkaDispatcher.class
+com\alura\curso\kafka\common\kafka\KafkaService.class
+com\alura\curso\kafka\common\kafka\ConsumerFunction.class
